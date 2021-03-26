@@ -8,7 +8,7 @@ PyCrypto==2.6.1
 pytest-cov==2.4.0
 pytest==3.0.6
 pytest-capturelog==0.7
-pyyaml==3.12
+pyyaml==5.4
 responses==0.5.1
 WebTest==2.0.25
 webapp2==2.5.2
